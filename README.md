@@ -60,11 +60,10 @@ _I recently discovered the importance of GitHub to commit and be present constan
 
 <br />
 <hr />
-<br />
 
 ### Profil / _Profile_ LinkedIn :
 
 <br/>
-<a href="https://www.linkedin.com/in/bertrandbourion/">
+<a href="https://www.linkedin.com/in/bertrandbourion/" target="_blank">
 <img align="left" alt="Logo Microsoft Azure" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
