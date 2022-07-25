@@ -19,7 +19,7 @@ Heavily impacted by design and beautiful things, I consider myself a front-end d
 
 _Most used technologies and tools :_
 
-
+<div>
 <img align="left" alt="Logo React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-left:20px;"/>
 <img align="left" alt="Logo React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-left:20px;"/>
 <img align="left" alt="Logo React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-left:20px;"/>
@@ -29,3 +29,14 @@ _Most used technologies and tools :_
 <img align="left" alt="Logo React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-left:20px;" />
 <img align="left" alt="Logo React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-left:20px;" />
 <img align="left" alt="Logo React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-left:20px;" />
+</div>
+
+<br />
+<br />
+<hr />
+
+![GHstats](https://github-readme-stats.vercel.app/api?username=lutinmaviou)
+
+J'ai découvert depuis peu l'importance de GitHub à commiter et être présent constamment, même pour des petits projets.
+
+*I recently discovered the importance of GitHub to commit and be present constantly, even for small projects.*
