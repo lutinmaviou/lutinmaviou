@@ -57,3 +57,14 @@ _Current and future interests :_
 J'ai découvert depuis peu l'importance de GitHub à commiter et être présent constamment, même pour des petits projets.
 
 _I recently discovered the importance of GitHub to commit and be present constantly, even for small projects._
+
+<br />
+<hr />
+<br />
+
+### Profil / _Profile_ LinkedIn :
+
+<br/>
+<a href="https://www.linkedin.com/in/bertrandbourion/">
+<img align="left" alt="Logo Microsoft Azure" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+</a>
