@@ -21,7 +21,7 @@ _Most used technologies and tools :_
 
 <br />
 
-<img align="left" alt="Logo React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-left:20px;"/>
+
 <img align="left" alt="Logo React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-left:20px;"/>
 <img align="left" alt="Logo React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-left:20px;"/>
 <img align="left" alt="Logo React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-left:20px;"/>
