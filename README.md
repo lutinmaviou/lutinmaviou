@@ -1,19 +1,3 @@
-<h1>Bertrand Bourion</h1>
-<!-- <style>
-    h1{
-        color: orangered;
-        animation: slidein 1s;
-    }
-    @keyframes slidein {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  } to {
-    margin-left: 0%;
-    width: 100%;
-  }
-}
-</style> -->
 ### I'm Bertrand, living in Lavaur, near Toulouse (France).
 
 <hr />
