@@ -1,5 +1,5 @@
 <h1>Bertrand Bourion</h1>
-<style>
+<!-- <style>
     h1{
         color: orangered;
         animation: slidein 1s;
@@ -13,7 +13,7 @@
     width: 100%;
   }
 }
-</style>
+</style> -->
 ### I'm Bertrand, living in Lavaur, near Toulouse (France).
 
 <hr />
