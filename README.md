@@ -1,6 +1,5 @@
 # Bertrand Bourion
 
-
 ### I'm Bertrand, living in Lavaur, near Toulouse (France).
 
 <hr />
@@ -19,7 +18,7 @@ Heavily impacted by design and beautiful things, I consider myself a front-end d
 <img align="left" alt="Logo Sass" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-left:20px;"/>
 <img align="left" alt="Logo JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-left:20px;"/>
 <img align="left" alt="Logo React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-left:20px;"/>
-<img align="left" alt="Logo Next.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-left:20px;" />
+<img align="left" alt="Logo Next.js" width="25px" src="./img/nextjs.png" style="padding-left:20px;" />
 <img align="left" alt="Logo MongoDB" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-left:20px;" />
 <img align="left" alt="Logo PhotoShop" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-left:20px;" />
 </div>
@@ -35,7 +34,7 @@ Heavily impacted by design and beautiful things, I consider myself a front-end d
 <img align="left" alt="Logo TypeScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-left:20px;"/>
 <img align="left" alt="Logo Docker" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-left:20px;"/>
 <img align="left" alt="Logo Kubernetes" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-left:20px;"/>
-<img align="left" alt="Logo Jenkins" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" style="padding-left:20px;"/>
+<img align="left" alt="Logo Jenkins" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-left:20px;"/>
 <img align="left" alt="Logo Microsoft Azure" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-left:20px;"/>
 </div>
 <br />
@@ -50,7 +49,7 @@ I recently discovered the importance of GitHub to commit and be present constant
 <br />
 <hr />
 
-### Profil / _Profile_ LinkedIn :
+### LinkedIn profile :
 
 <br/>
 <a href="https://www.linkedin.com/in/bertrandbourion/" target="blank">
