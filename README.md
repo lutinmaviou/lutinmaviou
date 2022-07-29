@@ -1,23 +1,16 @@
 # Bertrand Bourion
 
-### Je m'appelle Bertrand, j'habite à Lavaur, à côté de Toulouse, dans le Tarn (81).
 
-_I'm Bertrand, living in Lavaur, near Toulouse (France)._
-
-<hr />
-
-Je suis quelqu'un de créatif qui a découvert le code en 2019, et ne l'a plus lâché depuis ❤️.
-
-Fortement impacté par le design et les belles choses, je me considère comme un développeur front-end, même si j'aime bien mettre les mains dans le cambouis et explorer la partie cachée de l'iceberg 😉.
-
-_I'm a creative person who discovered programming in 2019, and hasn't let go since ❤️.<br />
-Heavily impacted by design and beautiful things, I consider myself a front-end developer, although I like to get my hands dirty and explore the hidden part of the iceberg 😉._
+### I'm Bertrand, living in Lavaur, near Toulouse (France).
 
 <hr />
 
-### Technologies et outils les plus utilisés :
+I'm a creative person who discovered programming in 2019, and hasn't let go since ❤️.<br />
+Heavily impacted by design and beautiful things, I consider myself a front-end developer, although I like to get my hands dirty and explore the hidden part of the iceberg 😉.
 
-_Most used technologies and tools :_
+<hr />
+
+### Most used technologies and tools :
 
 <div>
 <img align="left" alt="Logo VSCode" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-left:20px;"/>
@@ -36,9 +29,7 @@ _Most used technologies and tools :_
 
 <hr />
 
-### Centres d'intérêt actuels et à venir :
-
-_Current and future interests :_
+### Current and future interests :
 
 <div>
 <img align="left" alt="Logo TypeScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-left:20px;"/>
@@ -54,9 +45,7 @@ _Current and future interests :_
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=lutinmaviou)
 
-J'ai découvert depuis peu l'importance de GitHub à commiter et être présent constamment, même pour des petits projets.
-
-_I recently discovered the importance of GitHub to commit and be present constantly, even for small projects._
+I recently discovered the importance of GitHub to commit and be present constantly, even for small and personnal projects.
 
 <br />
 <hr />
