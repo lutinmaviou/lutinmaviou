@@ -1,4 +1,4 @@
-### I'm Bertrand, living in Lavaur, near Toulouse (France).
+### ### I'm Bertrand, living in Lavaur, near Toulouse (France).
 
 <hr />
 
@@ -7,7 +7,7 @@ Heavily impacted by design and beautiful things, I consider myself a front-end d
 
 <hr />
 
-### Most used technologies and tools :
+### ### Most used technologies and tools :
 
 <div>
 <img align="left" title="VSCode" alt="Logo VSCode" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-left:20px;"/>
@@ -27,7 +27,7 @@ Heavily impacted by design and beautiful things, I consider myself a front-end d
 
 <hr />
 
-### Current and future interests :
+### ### Current and future interests :
 
 <div>
 <img align="left" title="TypeScript" alt="Logo TypeScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-left:20px;"/>
@@ -48,7 +48,7 @@ I recently discovered the importance of GitHub to commit and be present constant
 <br />
 <hr />
 
-### LinkedIn profile :
+### ### LinkedIn profile :
 
 <br/>
 <a href="https://www.linkedin.com/in/bertrandbourion/" target="blank">
