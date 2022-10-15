@@ -35,6 +35,7 @@ Heavily impacted by design and beautiful things, I consider myself a front-end d
 <img align="left" title="Kubernetes" alt="Logo Kubernetes" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-left:20px;"/>
 <img align="left" title="Jenkins" alt="Logo Jenkins" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-left:20px;"/>
 <img align="left" title="Microsoft Azure" alt="Logo Microsoft Azure" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-left:20px;"/>
+<img align="left" title="TDD" alt="Logo TDD" width="25px" src="./img/tdd.png" style="padding-left:20px;" />
 </div>
 <br />
 <br />
